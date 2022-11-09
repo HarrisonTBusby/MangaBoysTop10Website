@@ -22,8 +22,9 @@ h1{
 .imageplacement{
 
     display: flex;
-    float:right;
-    justify-content:center;
+    flex-direction: row;
+    justify-content: flex-end;
+   
 }
 
 .textplacement{
