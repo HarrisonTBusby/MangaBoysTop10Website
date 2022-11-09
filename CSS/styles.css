@@ -18,3 +18,9 @@ h1{
     
 
 }
+
+.imageplacement{
+
+    display: flex;
+    justify-content: flex-end;
+}
