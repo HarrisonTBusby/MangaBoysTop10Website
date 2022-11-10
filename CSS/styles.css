@@ -56,3 +56,7 @@ p {
     align-self: flex-start;
     flex-direction: column;
 }
+
+ol {
+    color: white;
+}
