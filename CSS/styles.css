@@ -47,3 +47,10 @@ body {
 p {
     color: white;
 }
+
+.pText{
+    color:black;
+    display: inline-flex;
+    align-self: flex-start;
+    flex-direction: column;
+}
