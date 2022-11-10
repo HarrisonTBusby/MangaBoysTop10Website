@@ -7,8 +7,13 @@ font-weight: bold;
 
 h1{
 
+    color: white;
    text-align: center;
     
+}
+
+h4 {
+    color: white;
 }
 
 .center{
@@ -29,7 +34,16 @@ h1{
 
 .textplacement{
 
+    color: white;
     display: inline-flex;
     align-self: flex-start;
     flex-direction: column;
+}
+
+body {
+    background-color:#2399d6;
+}
+
+p {
+    color: white;
 }
